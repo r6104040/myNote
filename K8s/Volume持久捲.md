@@ -66,7 +66,7 @@ spec:
       - name: log-volum
         mountPath: /log
 
-#-----------------3. Pod使用hostPath(靜態、臨時用、缺乏靈活性#-----------------
+#-----------------3. Pod使用hostPath(靜態、臨時用、缺乏靈活性)-----------------
 apiVersion: v1
 kind: Pod
 metadata:
